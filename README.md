@@ -1,6 +1,6 @@
 # 𝗜𝗕𝗠 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
 A tool that calculates a person's BMI based on their height and weight.
-teste
+
 ##
 ![2023-05-08 (4)](https://user-images.githubusercontent.com/113322342/236955778-bb33e695-e213-4210-aaa3-73c74559d693.png)
 ##
