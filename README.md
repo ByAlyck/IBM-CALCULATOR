@@ -22,7 +22,7 @@ This is a simple calculator project developed with HTML, CSS, and JavaScript.
 1. Download or clone this repository.
 2. Open the `index.html` file in your web browser.
 
-## Directory Structure
+## 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
 
 IBM Calculator/
