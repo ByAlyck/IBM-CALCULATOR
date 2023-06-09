@@ -42,10 +42,6 @@ IBM Calculator/
 
 Contributions are welcome! If you want to improve this project, feel free to fork it and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ##
 ![2023-05-08 (4)](https://user-images.githubusercontent.com/113322342/236955778-bb33e695-e213-4210-aaa3-73c74559d693.png)
 ##
