@@ -3,7 +3,7 @@
 
 This is a simple calculator project developed with HTML, CSS, and JavaScript.
 
-## Features
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
 - The calculator supports basic operations such as addition, subtraction, multiplication, and division.
 - Numbers can be entered by clicking the number buttons or typing on the keyboard.
