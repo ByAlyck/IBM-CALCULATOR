@@ -11,7 +11,7 @@ This is a simple calculator project developed with HTML, CSS, and JavaScript.
 - The "=" key displays the result of the operation.
 - The "DEL" key deletes the last digit entered.
 
-## Technologies Used
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
 
 - HTML5: Used for structuring and markup of the calculator content.
 - CSS3: Used for styling and layout of the calculator.
