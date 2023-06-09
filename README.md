@@ -36,7 +36,6 @@ IBM Calculator/
 - The `css` folder contains the `style.css` file, which is responsible for styling the calculator.
 - The `js` folder contains the `script.js` file, which contains the JavaScript code responsible for the calculator's functionalities.
 - The `index.html` file is the main page of the calculator, which contains the HTML structure and references to the CSS and JavaScript files.
-- The `calculator.png` file is a sample image of the calculator for illustration purposes.
 
 ## Contribution
 
