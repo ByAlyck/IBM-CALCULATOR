@@ -30,7 +30,7 @@ IBM Calculator/
 
 - The `a.html` file is the main page of the calculator, which contains the HTML structure.
 
-## Contribution
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻
 
 Contributions are welcome! If you want to improve this project, feel free to fork it and submit a pull request.
 
