@@ -17,7 +17,7 @@ This is a simple calculator project developed with HTML, CSS, and JavaScript.
 - CSS3: Used for styling and layout of the calculator.
 - JavaScript: Used to implement the calculator's functionalities.
 
-## How to Run
+## 𝗛𝗼𝘄 𝘁𝗼 𝗥𝘂𝗻
 
 1. Download or clone this repository.
 2. Open the `index.html` file in your web browser.
